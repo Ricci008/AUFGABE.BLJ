@@ -13,6 +13,7 @@ namespace RechteckBerechner
         private void buttonBerechnen_Click(object sender, EventArgs e)
         {
             // Überprüfe, ob gültige Zahlen eingegeben wurden
+            //comment
             if (double.TryParse(textBoxBreite.Text, out double width) && double.TryParse(textBoxHöhe.Text, out double hight))
             {
                 // Berechne die Fläche
