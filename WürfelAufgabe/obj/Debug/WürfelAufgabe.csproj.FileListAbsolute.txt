@@ -1,0 +1,10 @@
+C:\Users\RiccardoGreco\OneDrive\BLJ\C#\AUFGABE.BLJ\WürfelAufgabe\obj\Debug\WürfelAufgabe.csproj.AssemblyReference.cache
+C:\Users\RiccardoGreco\OneDrive\BLJ\C#\AUFGABE.BLJ\WürfelAufgabe\obj\Debug\WürfelAufgabe.Form1.resources
+C:\Users\RiccardoGreco\OneDrive\BLJ\C#\AUFGABE.BLJ\WürfelAufgabe\obj\Debug\WürfelAufgabe.Properties.Resources.resources
+C:\Users\RiccardoGreco\OneDrive\BLJ\C#\AUFGABE.BLJ\WürfelAufgabe\obj\Debug\WürfelAufgabe.csproj.GenerateResource.cache
+C:\Users\RiccardoGreco\OneDrive\BLJ\C#\AUFGABE.BLJ\WürfelAufgabe\obj\Debug\WürfelAufgabe.csproj.CoreCompileInputs.cache
+C:\Users\RiccardoGreco\OneDrive\BLJ\C#\AUFGABE.BLJ\WürfelAufgabe\bin\Debug\WürfelAufgabe.exe.config
+C:\Users\RiccardoGreco\OneDrive\BLJ\C#\AUFGABE.BLJ\WürfelAufgabe\bin\Debug\WürfelAufgabe.exe
+C:\Users\RiccardoGreco\OneDrive\BLJ\C#\AUFGABE.BLJ\WürfelAufgabe\bin\Debug\WürfelAufgabe.pdb
+C:\Users\RiccardoGreco\OneDrive\BLJ\C#\AUFGABE.BLJ\WürfelAufgabe\obj\Debug\WürfelAufgabe.exe
+C:\Users\RiccardoGreco\OneDrive\BLJ\C#\AUFGABE.BLJ\WürfelAufgabe\obj\Debug\WürfelAufgabe.pdb
