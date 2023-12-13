@@ -1,0 +1,10 @@
+C:\Users\RiccardoGreco\OneDrive\BLJ\C#\AUFGABE.BLJ\ReiseMond\bin\Debug\ReiseMond.exe.config
+C:\Users\RiccardoGreco\OneDrive\BLJ\C#\AUFGABE.BLJ\ReiseMond\bin\Debug\ReiseMond.exe
+C:\Users\RiccardoGreco\OneDrive\BLJ\C#\AUFGABE.BLJ\ReiseMond\bin\Debug\ReiseMond.pdb
+C:\Users\RiccardoGreco\OneDrive\BLJ\C#\AUFGABE.BLJ\ReiseMond\obj\Debug\ReiseMond.csproj.AssemblyReference.cache
+C:\Users\RiccardoGreco\OneDrive\BLJ\C#\AUFGABE.BLJ\ReiseMond\obj\Debug\ReiseMond.Form1.resources
+C:\Users\RiccardoGreco\OneDrive\BLJ\C#\AUFGABE.BLJ\ReiseMond\obj\Debug\ReiseMond.Properties.Resources.resources
+C:\Users\RiccardoGreco\OneDrive\BLJ\C#\AUFGABE.BLJ\ReiseMond\obj\Debug\ReiseMond.csproj.GenerateResource.cache
+C:\Users\RiccardoGreco\OneDrive\BLJ\C#\AUFGABE.BLJ\ReiseMond\obj\Debug\ReiseMond.csproj.CoreCompileInputs.cache
+C:\Users\RiccardoGreco\OneDrive\BLJ\C#\AUFGABE.BLJ\ReiseMond\obj\Debug\ReiseMond.exe
+C:\Users\RiccardoGreco\OneDrive\BLJ\C#\AUFGABE.BLJ\ReiseMond\obj\Debug\ReiseMond.pdb
